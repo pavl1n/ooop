@@ -1,3 +1,2 @@
 # ooop
-java 
-Поставьте пожалуйста 4. Это Шиманский поставьте пожалуйста
+second grade ooop java labs
